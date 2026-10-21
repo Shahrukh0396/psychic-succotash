@@ -1,10 +1,10 @@
 export const brand = {
   name: "24/7 Marketing Solutions",
   short: "24/7 MS",
-  email: "hello@247marketingsolutions.com",
-  phone: "+1 (555) 247-2477",
-  phoneHref: "tel:+15552472477",
-  whatsapp: "https://wa.me/15552472477",
+  email: "info@247marketingsolution.com",
+  phone: "+92 312 2407538",
+  phoneHref: "tel:+923122407538",
+  whatsapp: "https://wa.me/923122407538",
   addressLines: [
     "M1-411, Country Tower Phase 2",
     "Buffer Zone 15B",
