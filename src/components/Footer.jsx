@@ -60,6 +60,16 @@ export default function Footer() {
           {brand.email} · {brand.phone}
         </p>
       </div>
+      <div className="wrap powered-by">
+        <a href="https://linton-tech.com" target="_blank" rel="noreferrer">
+          <span className="powered-mark" aria-hidden="true">
+            LT
+          </span>
+          <span>
+            Powered by <strong>Linton Tech LLC</strong>
+          </span>
+        </a>
+      </div>
     </footer>
   );
 }
